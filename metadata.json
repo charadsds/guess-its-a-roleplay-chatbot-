@@ -1,0 +1,7 @@
+{
+  "name": "Astra-AI",
+  "description": "An interactive AI VTuber inspired by Neuro-sama, featuring real-time conversation, high-quality TTS, and a reactive visual avatar.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
